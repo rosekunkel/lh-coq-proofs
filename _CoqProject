@@ -1,3 +1,4 @@
 -R theories/ LHProofs
 theories/proofs.v
 theories/reverse.v
+theories/flatten.v
