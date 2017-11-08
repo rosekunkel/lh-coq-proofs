@@ -2,3 +2,4 @@
 theories/proofs.v
 theories/reverse.v
 theories/flatten.v
+theories/replicate.v
